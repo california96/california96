@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - 👀 No Facebook account in any shape or form
 
 ### Some stats
-https://github-readme-stats.vercel.app/api?username=california96&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=california96&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Let's talk? 📱
 If you know me in real life, contact me so I can make myself available for business/personal arrangements. 
