@@ -17,18 +17,18 @@ Here are some ideas to get you started:
 
 ### About Me
 
-- 🇬🇧Junior Software Developer at Cambridge University Press - Manila 🇵🇭
+- 🇬🇧Junior Software Developer at Cambridge University Press & Assessment - Manila 🇵🇭
 - ☕️ / 🍵 Enjoys both tea and coffee (but not at the same time)
 - 🧑🏻‍💻 Aspiring full stack developer with an occasional penchant for API development, and mobile development
 - 🚢 Slowly appreciating containerization
 - ☁️ Currently working for AWS certification
 - 📷 An old soul advocating for film photography and vinyl records 
-- 👀 No Facebook account in any shape or form
+- ❔ No Facebook account in any shape or form
 
 ### Some stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=california96&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Let's talk? 📱
-If you know me in real life, contact me so I can make myself available for business/personal arrangements. 
+If you know me in real life, contact me so I can make myself available for business or personal arrangements. 
 
 ### Cheers!
