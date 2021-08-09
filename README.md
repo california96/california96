@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 - 🚢 Slowly appreciating containerization
 - ☁️ Currently working for AWS and Oracle certifications
 - 📷 An old soul advocating for film photography and vinyl records 
+- ⬜ A firm believer of digital minimalism
 - ❔ No Facebook account in any shape or form
 
 ### Some stats
