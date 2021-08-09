@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🇬🇧Junior Software Developer at Cambridge University Press & Assessment - Manila 🇵🇭
 - ☕️ / 🍵 Enjoys both tea and coffee (but not at the same time)
-- 🧑🏻‍💻 Aspiring full stack developer with an occasional penchant for API development, and mobile development
+- 🧑🏻‍💻 Aspiring full stack developer with an occasional penchant for mobile development
 - 🚢 Slowly appreciating containerization
 - ☁️ Currently working for AWS and Oracle certifications
 - 📷 An old soul advocating for film photography and vinyl records 
