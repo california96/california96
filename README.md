@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### About Me
 
-- 🇬🇧Junior Software Developer at Cambridge University Press & Assessment - Manila 🇵🇭
+- 🇬🇧Junior Software Engineer at Cambridge University Press & Assessment - Manila 🇵🇭
 - ☕️ / 🍵 Enjoys both tea and coffee (but not at the same time)
 - 🧑🏻‍💻 Aspiring full stack developer with an occasional penchant for API development, and mobile development
 - 🚢 Slowly appreciating containerization
