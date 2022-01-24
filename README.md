@@ -19,13 +19,27 @@ Here are some ideas to get you started:
 
 - 🇬🇧Junior Software Engineer at Cambridge University Press & Assessment - Manila 🇵🇭
 - ☕️ / 🍵 Enjoys both tea and coffee (but not at the same time)
-- 🧑🏻‍💻 Aspiring full stack developer with an occasional penchant for mobile development
+- 🧑🏻‍💻 Full stack developer with an occasional penchant for API development, and mobile development
 - 🚢 Slowly appreciating containerization
 - ☁️ Currently working for AWS and Oracle certifications
 - 📷 An old soul advocating for film photography and vinyl records 
-- ⬜ A firm believer of digital minimalism
 - ❔ No Facebook account in any shape or form
 
+### Current Tools and Technologies
+- Java 8
+- MySQL
+- HTML5
+- CSS
+- JavaScript
+- PHP
+- XML
+- XPath
+
+### Current Frameworks
+- Struts2
+- Spring
+- Laravel
+- Django
 ### Some stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=california96&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
