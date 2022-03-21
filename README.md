@@ -27,13 +27,14 @@ Here are some ideas to get you started:
 
 ### Current Tools and Technologies
 - Java 8
+- Groovy
 - MySQL
 - HTML5
 - CSS
 - JavaScript
 - PHP
 - XML
-- XPath
+- XSLT
 
 ### Current Frameworks
 - Struts2
