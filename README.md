@@ -18,11 +18,12 @@ Here are some ideas to get you started:
 ### About Me
 
 - 🇬🇧Junior Software Engineer at Cambridge University Press & Assessment - Manila 🇵🇭
-- ☕️ / 🍵 Enjoys both tea and coffee (but not at the same time)
-- 🧑🏻‍💻 Full stack developer with an occasional penchant for API development, and mobile development
+- 🍵 Enjoys green tea
+- ☕️🚫 Recently quit coffee
+- 🧑🏻‍💻 Full stack developer with an occasional penchant for mobile development
 - 🚢 Slowly appreciating containerization
 - ☁️ Currently working for AWS and Oracle certifications
-- 📷 An old soul advocating for film photography and vinyl records 
+- 📷 An old soul advocating for film photography and vinyl records
 - ❔ No Facebook account in any shape or form
 
 ### Current Tools and Technologies
@@ -45,6 +46,6 @@ Here are some ideas to get you started:
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=california96&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Let's talk? 📱
-If you know me in real life, contact me so I can make myself available for business or personal arrangements. 
+If you know me in real life, contact me so I can make myself available for business or personal arrangements.
 
 ### Cheers!
