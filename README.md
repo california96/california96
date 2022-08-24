@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - ❔ No Facebook account in any shape or form
 
 ### Current Tools and Technologies
-- Java 8
+- Java 11
 - Groovy
 - MySQL
 - HTML5
