@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 ### About Me
 
 - 🇬🇧Junior Software Engineer at Cambridge University Press & Assessment - Manila 🇵🇭
-- 🍵 Enjoys green tea
-- ☕️🚫 Recently quit coffee
-- 🧑🏻‍💻 Full stack developer with an occasional penchant for mobile development
-- 🚢 Slowly appreciating containerization
-- ☁️ Currently working for AWS and Oracle certifications
-- 📷 An old soul advocating for film photography and vinyl records
-- ❔ No Facebook account in any shape or form
+- 🍵 Enjoys green tea.
+- ☕️🚫 Recently quit coffee.
+- 🧑🏻‍💻 Full stack developer with an occasional penchant for mobile development. Currently focused on API development.
+- 🚢 Slowly appreciating containerization.
+- ☁️ Currently working for AWS and Oracle certifications.
+- 📷 An old soul advocating for film photography and vinyl records.
+- ❔ No Facebook account in any shape or form. No Instagram either.
 
 ### Current Tools and Technologies
 - Java 11
@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 - PHP
 - XML
 - XSLT
+- XQuery
 
 ### Current Frameworks
 - Struts2
