@@ -17,19 +17,20 @@ Here are some ideas to get you started:
 
 ### About Me
 
-- 🇬🇧Junior Software Engineer at Cambridge University Press & Assessment - Manila 🇵🇭
-- 🍵 Enjoys green tea.
-- ☕️🚫 Recently quit coffee.
-- 🧑🏻‍💻 Full stack developer with an occasional penchant for mobile development. Currently focused on API development.
+- On a career break. Stay tuned for the next stage!
+- 🍵 Enjoys matcha.
+- ☕️ Quit coffee on account of an acid reflux episode.
+- 🧑🏻‍💻 Full stack developer currently focused on API development.
 - 🚢 Slowly appreciating containerization.
-- ☁️ Currently working for AWS and Oracle certifications.
+- ☁️ Currently working for AWS certifications.
 - 📷 An old soul advocating for film photography and vinyl records.
 - ❔ No Facebook account in any shape or form. No Instagram either.
 
 ### Current Tools and Technologies
-- Java 11
+- Java 8 / 11 / 17
 - Groovy
 - MySQL
+- PostgreSQL
 - HTML5
 - CSS
 - JavaScript
@@ -51,6 +52,6 @@ Here are some ideas to get you started:
 </a>
 
 ### Let's talk? 📱
-If you know me in real life, contact me so I can make myself available for business or personal arrangements.
+If you know me in real life, contact me on LinkedIn so I can make myself available for business or personal arrangements.
 
 ### Cheers!
