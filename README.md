@@ -40,10 +40,11 @@ Here are some ideas to get you started:
 - XQuery
 
 ### Current Frameworks
-- Struts2
+- Struts2 (archived)
 - Spring
 - Laravel
 - Django
+- React (starting)
 ### Some stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=california96&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
