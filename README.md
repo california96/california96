@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 ### About Me
 
-- On a career break. Stay tuned for the next stage!
+- 🇦🇺 Mid Fullstack Software Engineer at Macquarie Group - Manila 🇵🇭
 - 🍵 Enjoys matcha.
 - ☕️ Quit coffee on account of an acid reflux episode.
-- 🧑🏻‍💻 Full stack developer currently focused on API development.
+- 🧑🏻‍💻 Aspiring full stack developer.
 - 🚢 Slowly appreciating containerization.
 - ☁️ Currently working for AWS certifications.
 - 📷 An old soul advocating for film photography and vinyl records.
@@ -29,8 +29,6 @@ Here are some ideas to get you started:
 ### Current Tools and Technologies
 - Java 8 / 11 / 17
 - Groovy
-- MySQL
-- PostgreSQL
 - HTML5
 - CSS
 - JavaScript
@@ -39,12 +37,24 @@ Here are some ideas to get you started:
 - XSLT
 - XQuery
 
-### Current Frameworks
-- Struts2 (archived)
+### Frameworks
 - Spring
 - Laravel
 - Django
+
+### Databases
+- MySQL
+- PostgreSQL (starting)
+- MarkLogic
+
+### Libraries
 - React (starting)
+
+### Infrastructure
+- AWS SQS
+- AWS S3
+- Docker
+
 ### Some stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=california96&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
