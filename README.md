@@ -60,9 +60,6 @@ Here are some ideas to get you started:
 
 ### Some stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=california96&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=california96&show_icons=true&theme=transparent&title_color=transparent&text_color=transparent&locale=en&layout=compact" alt="california96" />
-</p>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=california96&count_private=true&include_all_commits=true&theme=radical&hide=html" />
 </a>
