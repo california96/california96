@@ -32,10 +32,13 @@ Here are some ideas to get you started:
 - HTML5
 - CSS
 - JavaScript
+- TypeScript
 - PHP
 - XML
 - XSLT
 - XQuery
+- OpenPages
+- Cognos Analytics
 
 ### Frameworks
 - Spring
@@ -44,7 +47,7 @@ Here are some ideas to get you started:
 
 ### Databases
 - MySQL
-- PostgreSQL (starting)
+- Microsoft SQL Server
 - MarkLogic
 
 ### Libraries
