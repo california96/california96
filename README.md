@@ -36,19 +36,23 @@ Here are some ideas to get you started:
 - XML
 - XSLT
 - XQuery
+- TypeScript
 
 ### Frameworks
 - Spring
 - Laravel
 - Django
+- Struts2
 
 ### Databases
 - MySQL
-- PostgreSQL (starting)
+- Microsoft SQL Server
 - MarkLogic
 
 ### Libraries
 - React (starting)
+- Playwright Test
+- JUnit
 
 ### Infrastructure
 - AWS SQS
