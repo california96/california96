@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### About Me
 
-- 🇦🇺 Mid Fullstack Software Engineer at Macquarie Group - Manila 🇵🇭
+- Fullstack Software Engineer 🇵🇭
 - 🍵 Enjoys matcha.
 - ☕️ Quit coffee on account of an acid reflux episode.
 - 🧑🏻‍💻 Aspiring full stack developer.
@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 - HTML5
 - CSS
 - JavaScript
+- TypeScript
 - PHP
 - XML
 - XSLT
@@ -46,9 +47,11 @@ Here are some ideas to get you started:
 - MySQL
 - PostgreSQL (starting)
 - MarkLogic
+- PL/SQL
 
 ### Libraries
 - React (starting)
+- Playwright Test
 
 ### Infrastructure
 - AWS SQS
