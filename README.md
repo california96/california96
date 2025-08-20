@@ -42,17 +42,17 @@ Here are some ideas to get you started:
 - Spring
 - Laravel
 - Django
+- Struts2
 
 ### Databases
 - MySQL
-- PostgreSQL (starting)
+- Microsoft SQL Server
 - MarkLogic
-- PL/SQL
 
 ### Libraries
 - React (starting)
 - Playwright Test
-
+- JUnit
 ### Infrastructure
 - AWS SQS
 - AWS S3
