@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 
 ### About Me
 
-- Fullstack Software Engineer 🇵🇭
+- 🇺🇸 Mid Software Engineer at Oracle Philippines 🇵🇭
 - 🍵 Enjoys matcha.
 - ☕️ Quit coffee on account of an acid reflux episode.
-- 🧑🏻‍💻 Aspiring full stack developer.
-- 🚢 Slowly appreciating containerization.
-- ☁️ Currently working for AWS certifications.
+- 🧑🏻‍💻 Full stack developer.
+- 🚢 Practicing containerization.
+- ☁️ Currently working for AWS/Oracle certifications.
 - 📷 An old soul advocating for film photography and vinyl records.
 - ❔ No Facebook account in any shape or form. No Instagram either.
 
@@ -48,11 +48,13 @@ Here are some ideas to get you started:
 - MySQL
 - Microsoft SQL Server
 - MarkLogic
+- PL/SQL (starting)
 
 ### Libraries
 - React (starting)
 - Playwright Test
 - JUnit
+
 ### Infrastructure
 - AWS SQS
 - AWS S3
