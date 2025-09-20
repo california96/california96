@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - ❔ No Facebook account in any shape or form. No Instagram either.
 
 ### Current Tools and Technologies
-- Java 8 / 11 / 17
+- Java 8 / 11 / 17 / 25 (starting)
 - Groovy
 - HTML5
 - CSS
